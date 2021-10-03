@@ -11,6 +11,9 @@
 .nav-link{
   background-color: white;
   width: 100%;
+   text-align: center;
+  font-size: 15px;
+  font-weight: bold;
 }
 #navbarNav{
       margin: 0px -10px -7px -11px;

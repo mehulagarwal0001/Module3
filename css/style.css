@@ -1,0 +1,48 @@
+*{
+   font-family: 'Baloo 2', cursive;
+}
+ .navbar{
+  background-color: grey !important;
+}
+.navbar-brand{
+  font-weight: bold;
+  font-size: 2em;
+}
+.nav-link{
+  background-color: white;
+  width: 100%;
+}
+#navbarNav{
+      margin: 0px -10px -7px -11px;
+      
+}
+
+#navbarNav ul li{
+  border: 2px solid black;
+  border-top: 0px;
+}
+
+.menu-title{
+  text-align: center;
+      margin: 6px 0px 14px 0px;
+      font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.menu-head{
+  text-align: center;
+  padding: 14px 0px 0px 0px;
+    font-size: 2em;
+   
+}
+.content{
+ /* background-color: grey;*/
+}
+.column{
+  background-color: grey;
+}
+.des{
+      padding: 4px 15px 11px 18px;
+  
+}
